@@ -2,4 +2,13 @@
 
 ### Probability
 
-* strong birthday
+* [birthday problem](https://github.com/Kelios1556/UntitledMathSet/blob/main/Probability/probability.md)
+  * including the canonical and strong birthday problem
+  * [cryptographic birthday attack]()
+
+
+
+### Inequality
+
+
+
